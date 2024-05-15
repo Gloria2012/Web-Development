@@ -1,0 +1,30 @@
+div{
+    width:200px;
+    height:200px;
+    background-color: olivedrab;
+    border:5px solid black;
+    /*display:inline;*/
+    display:inline-block;
+    margin:50px;
+}
+h1{
+    background-color: paleturquoise;
+    border:1px solid black;
+    width:300px;
+    padding:50ox;
+    margin:50px;
+    display:none;
+}
+/*
+span{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    display:block;
+}*/
+span{
+    background-color: palevioletred;
+    border: 1px solid black;
+    width:500px;
+    padding:50px;
+    margin:50px;
+}

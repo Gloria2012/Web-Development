@@ -1,0 +1,24 @@
+h1{
+    text-align: centre;
+}
+h2{
+    /*
+    color: teal;
+    background-color:plum ;
+    */
+    color: #5FCFFC;
+    background-color: rgb(89,151,0);
+
+}
+button{
+    color: magenta;
+    background-color: cyan;
+}
+p{
+    color:olive;
+    background: orange;
+}
+body{
+    /*background-color: #000000;*/
+    background-color: #000;
+}

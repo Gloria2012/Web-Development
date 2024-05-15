@@ -1,0 +1,280 @@
+shshow collections
+Bulma-link
+
+https://bulma.io/
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+
+
+loupe
+
+
+twilio -sms, text api
+
+
+Jaon formatter & vlaidator
+https://jsonformatter.curiousconcept.com/
+
+Jaon-document
+
+https://www.json.org/json-en.html
+
+
+cat Facrs API
+https://catfact.ninja/
+
+star wars api
+https://swapi.dev/documentation#base
+
+hoppscotch.io
+https://hoppscotch.io/
+
+msdn status code
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+Dad Joke API
+https://icanhazdadjoke.com/api
+
+AXIOS DOCS
+https://github.com/axios/axios#installing
+
+TVMaze API
+https://www.tvmaze.com/api
+
+
+
+how to install Git nd Git Bash on Windows
+https://zarkom.net/blogs/how-to-install-git-and-git-bash-on-windows-9140
+
+/*commandss#/
+//ls
+//cd 
+//mkdir
+//rm 
+//rmdir
+//rm -rf
+//touch
+//^C or ^D or .exit
+//node + filename(test.js)
+
+
+//nodeJS(Javascript runtime)
+https://nodejs.org/en/about
+
+//cross code
+http://www.cross-code.com/en/home
+
+//Build cross-platform desktop apps with JavaScript, HTML, and CSS
+http://www.cross-code.com/en/home
+
+//Node package Manager-npm
+//npm link for joke
+https://www.npmjs.com/package/give-me-a-joke
+
+//npm packages
+https://www.npmjs.com/package/react
+
+//cowsay package
+https://www.npmjs.com/package/cowsay
+
+//to change write permission
+sudo  chown -R $USER /usr/local/lob/node_modules
+
+//npm global install packages
+npm i -g packagename
+
+//npm link to global pakage
+npm link packagename
+
+//node-group chat
+https://github.com/dkhd/node-group-chat
+
+//create package
+npm init
+
+//install package dependencies-local dir
+npm install 
+
+
+//franc package
+https://github.com/wooorm/franc
+
+//nodeJs langs
+https://github.com/adlawson/nodejs-langs
+
+//express
+https://expressjs.com/
+
+
+//nodemon - automatic server restart
+https://www.npmjs.com/package/nodemon
+
+//ejs-embedded java script templating
+https://ejs.co/
+
+//Rest-Representational state transfer
+Rest is an architectural style for distributed hypermedis
+https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+
+//uuid npm
+https://www.npmjs.com/package/uuid
+
+
+//mongo database
+https://www.mongodb.com/
+
+
+//mongo installation
+//mongo db community eerver
+https://www.mongodb.com/try/download/community
+//mongo db shell
+https://www.mongodb.com/try/download/shell
+
+//create database
+--use dtatabasename
+//show database
+-show dbs
+//to use a specific database
+--db
+
+//to work with data in database
+//BSON-binary jason-compact version of json
+//bson store date and Raw binary
+https://www.mongodb.com/json-and-bson
+
+
+//mongodb server crud operation
+https://www.mongodb.com/docs/manual/crud/
+
+//to see available collections in the database
+--show collections 
+//to see the data in the collection(eg. dogs collection)
+--db.dogs.find()
+//inserting with mongo db
+
+//switch back to local
+//use local
+
+show 
+show dbs
+
+//moongose-ODM-object data mapper(object document mapper)
+//moongose document
+https://mongoosejs.com/
+
+//moongoose connsction
+mongoose.connect('mongodb://127.0.0.1:27017/your_database_name_here')
+mongoose.set('strictQuery', true);
+
+port-max 5showshow 5535
+
+//mongodb and express docs
+https://mongoosejs.com/docs/api/model.html
+
+
+//morgan -middleware
+https://github.com/expressjs/morgan
+
+//ejs mate
+https://github.com/JacksonTian/ejs-mate
+//bootstrap
+https://getbootstrap.com/
+
+//bootstrap 5
+https://getbootstrap.com/
+
+//unsplah source api
+https://unsplash.com/collections/483251/in-the-woods
+
+//random image generator
+https://images.unsplash.com/photo-1456305951335-npbb8134aeab8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHw0ODQzNTF8fHx8fHx8MTY4OTg3NzA1Ng&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080
+
+//JOI API
+https://joi.dev/api/?v=17.9.1
+//mongo blog posy on schema
+https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design
+
+
+//cookies parser
+https://www.npmjs.com/package/cookie-parser
+
+//session 
+store data
+server send back the key and brower store that data as a cookiea
+
+//express session
+https://www.npmjs.com/package/express-session
+
+//by defULT SESSION DATA STORE IN MERMORY THAT IS NOT GOOD FOR productioN INSTED SAVE IN COMAPTIBLE SESSION STORE LIKE
+connect-mongo  CONNECT-REDIS
+
+//flash
+https://github.com/jaredhanson/connect-flash
+
+The flash is a special area of the session used for storing messages. Messages are written to the flash and cleared after being displayed to the user. The flash is typically used in combination with redirects, ensuring that the message is available to the next page that is to be rendered.
+
+//crypto graphic hashing function
+//bcrypt -https://github.com/kelektiv/node.bcrypt.js
+& password salt
+
+
+//passport for authentication
+https://www.passportjs.org/packages/
+//hashing algorithm-pbkdf2- iteration -2500
+https://cryptobook.nakov.com/mac-and-key-derivation/pbkdf2
+
+//entity code for star
+&#9734; &#9733;
+https://developer.mozilla.org/en-US/docs/Glossary/Entity
+
+//for star rating
+https://github.com/LunarLogic/starability
+
+//stoe images on  cloudinary
+https://cloudinary.com/ip/gr-sea-gg-brand-home-base?utm_source=google&utm_medium=search&utm_campaign=goog_selfserve_brand_wk22_replicate_core_branded_keyword&utm_term=1329&campaignid=18164753405&adgroupid=144188713167&keyword=cloudinary&device=c&matchtype=e&adposition=&gad_source=1&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWQqe3ihlwT8TbHyg4xDVx3Yw67rZTDLFUahJn8FdGMdF0Qxute_C00aAvMREALw_wcB
+//AWS
+
+//storing link in the database
+HTMLFormElement: enctype property
+The HTMLFormElement.enctype property is the MIME type of content that is used to submit the form to the server. Possible values are:
+
+application/x-www-form-urlencoded: The initial default type.
+multipart/form-data: The type that allows file <input> element(s) to upload file data.
+text/plain: Ambiguous format, human-readable content not reliably interpretable by computer.
+This value can be overridden by a formenctype attribute on a <button> or <input> element.
+
+//multer -middleware for handling multipart/form-data\
+https://github.com/expressjs/multer
+
+//dotenv -storing configuration in the env file
+
+https://github.com/motdotla/dotenv
+
+//cloud storage -cloudinary
+npm install cloudinary
+npm install multer-storage-cloudinary
+https://www.npmjs.com/package/multer-storage-cloudinary
+
+//file input
+bs-custom-file-input
+npm install bs-custom-file-input --save
+https://www.npmjs.com/package/bs-custom-file-input
+
+//cloudinary image transformation
+https://cloudinary.com/documentation/image_transformations
+
+
+//for adding map
+https://www.mapbox.com/
+//mapbox-sdk
+https://github.com/mapbox/mapbox-sdk-js/blob/main/docs/services.md
+https://github.com/mapbox/mapbox-sdk-js
+
+//map box geocoding sdk & documnent
+https://github.com/mapbox/mapbox-sdk-js
+https://github.com/mapbox/mapbox-sdk-js/blob/main/docs/services.md
+
+//display map
+https://docs.mapbox.com/mapbox-gl-js/api/

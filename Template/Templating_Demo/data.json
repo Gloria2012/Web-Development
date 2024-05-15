@@ -1,0 +1,72 @@
+{
+    "soccer":{
+        "name": "Soccer",
+        "subscribers": 800000,
+        "description": "The football subreddit. News, reuslts and discusion",
+        "posts": [
+            {
+                "title": "Marten de Roon to make pizza for mor thab 1,000 person.",
+                "author": "joeextreme"
+
+            },
+            {
+                "title": "Stephan Lichsteiner has retire from profesional.",
+                "author": "odd person"
+
+            },
+            {
+                "title": "OFFICIAL: Dani Parejo .",
+                "author": "joeextreme"
+
+            }
+        ]
+    },
+    "chickens":{
+        "name": "Chickens",
+        "subscribers": 104000,
+        "description": "A place to post your photis, videos, and questions about chickens!",
+        "posts": [
+            {
+                "title": "Looking for suggestions..",
+                "author": "letshavefunlakelife",
+                "img": "https://preview.redd.it/2cvbmxeqst1b1.png?width=640&crop=smart&auto=webp&v=enabled&s=ed840e374b7b3dde862a2ed162350682a2a51c22"
+            },
+            {
+                "title": "Sir Meier and some of his Ladies",
+                "author": "rechtrecht",
+                "img": "https://preview.redd.it/mfxavzf8cu1b1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=b5d9fa1762ca80f01165af48e0a5e9dae55fb364"
+            },
+            {
+                "title": "my girl is getting big",
+                "author": "TestSudden3962",
+                "img":"https://preview.redd.it/w51oldvpbq1b1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=c1e42a4438b782d1c080f6a6dc0012bfb547c745"
+            }
+        ]
+
+    },
+    "mightyharvest":{
+        "name": "Mighty Harvest",
+        "subscribers": 44002,
+        "description": "Feeding many villages and village idiots for 10s of days",
+        "posts": [
+            {
+                "title": "My god we will have enough ketchup for the whole sub!",
+                "author": "hoeingcomeseasy",
+                "img":"https://preview.redd.it/my-god-we-will-have-enough-ketchup-for-the-whole-sub-v0-gsx1q4frjq1b1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=06c771d58ac8ed0ed6df38d59173ad86337cdd21"
+            },
+            {
+                "title": "Time for a big batch of hot sauce!",
+                "author": "meatballlady",
+                "img": "https://external-preview.redd.it/dGEZle-LWle6rq44kwEMopry6CI5nbQEwPHGvqOGT3g.jpg?width=640&crop=smart&auto=webp&v=enabled&s=b2fc7603a57483c19efc73ff3f5f90aac13d86e3"
+
+            },
+            {
+                "title": "Bell peppers for days.",
+                "author": "Anastasija",
+                "img": "https://preview.redd.it/4ofsvivrob1b1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=91e4f0ade89bd486e181ae5deeb8872f23ef3f59"
+
+            }
+        ]
+    }
+
+}

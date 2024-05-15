@@ -1,0 +1,8 @@
+coverage/
+node_modules/
+packages/franc-all/index.js
+packages/franc-min/index.js
+.DS_Store
+*.d.ts
+*.log
+yarn.lock

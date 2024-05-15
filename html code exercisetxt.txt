@@ -1,0 +1,29 @@
+htmlcode exercise
+
+
+<h1>&#9731; Snowman Productions<sup>&reg; </sup></h1>
+
+AccsessOPA-ZeyaNov2012!
+
+
+emmetdemo
+https://docs.emmet.io/
+
+
+-css document link
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+--html document link--
+
+Mozilia development network-mdn
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+--CSS-
+book store ui 
+https://codepen.io/TurkAysenur/pen/JjGKKrP
+
+
+//color pallete
+https://coolors.co/palettes/trending

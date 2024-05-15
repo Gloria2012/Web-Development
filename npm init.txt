@@ -1,0 +1,7 @@
+npm init
+npm i express
+npm i mongoose
+touch index.js
+
+//in index.js file
+const express = require('express')

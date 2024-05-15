@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta nsme="viewport" content="width=devive-width, initial-scale=1.0">
+
+    <title>Doucment</title>
+ 
+    <!--LEAVE THESE LINES ALONE, PLEASE! THEY MAKE THE LIVE PREVIEW WORK!-->
+    <script src="node_modules/babel-polyfill/dist/polyfill.js" type="text/javascript"> </script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/nodelist-foreach-polyfill@1.2.0/index.min.js"></script>
+    <!--<link rel="stylesheet" href="app.css">-->
+    <!--bulma link-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+<!--
+    <style>
+        .winner{
+            color: green;
+        }
+        .loser{
+            color: red;
+        }
+    </style>
+-->
+</head>
+
+<body>
+    <section class="section">
+        <div class="container">
+            <div class="column is-half is-offset-one-quarter">
+                <div class="card">
+                    <div class="card-image">
+                        <figure class="image is-2by-1">
+                            <img src="https://images.unsplash.com/photo-1534158914592-062992fbe900?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3784&q=80" alt="">
+                            
+                        </figure>
+                    </div>
+                    <header class="card-header">
+                    <p class="card-header-title">
+                        Ping Pong Score Keeper
+                    </p>
+                    </header>
+                    <div class="card-content">
+                    <div class="content">
+                        <h1 class="title is-1"><span id="p1Display">0</span> to <span id="p2Display">0</span> </h1>
+                        <p class="subtitle">Use the buttons below to keep score</p>
+                        
+                        <label for="playto" class="label is-large is-inline">Playing To</label>
+                        <div class="select is-rounded">
+                            <select name="" id="playto">
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                                <option value="6">6</option>
+                                <option value="7">7</option>
+                                <option value="8">8</option>
+                                <option value="9">9</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                        </select>
+                        </div>
+                    </div>
+                    </div>
+                    <footer class="card-footer">
+                        <button id="p1Button" class="is-primary button card-footer-item">+1 Player One</button>
+                        <button id="p2Button" class="is-primary button card-footer-item">+1 Player Two</button>
+                        <button id="reset" class="is-danger button card-footer-item">Reset</button>
+                    </footer>
+                </div>           
+            </div>
+        </div>
+    </section>
+<!--
+    <h1><span id="p1Display">0</span> to <span id="p2Display">0</span> </h1>
+   <select name="" id="playto">
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+   </select>
+    <button id="p1Button">+1 Player One</button>
+    <button id="p2Button">+1 Player Two</button>
+    <button id="reset">Reset</button>
+-->
+       
+     <script src="app.js"></script>
+</body>
+
+</html>

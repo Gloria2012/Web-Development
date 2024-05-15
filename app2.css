@@ -1,0 +1,40 @@
+
+/*universal selector*/
+*{
+    background-color: pink;
+}
+/*element selector*/
+button{
+    font-size: 30px;
+}
+/*selector List*/
+h1,h2{
+    color:darkslateblue;
+}
+h1{
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: plum underline wavy;
+    
+}
+/*h1{
+    text-align: center;
+    font-weight: 400;
+    text-decoration: blue underline wavy;
+    letter-spacing: 50px;
+    font-size: 80px;
+    font-family: Segoe UI, Futura, sans-serif;
+
+}*/
+p{
+   text-align: left; 
+   line-height: 2;
+   /*font-weight: 700;*/
+}
+a{
+    text-decoration: none;
+}
